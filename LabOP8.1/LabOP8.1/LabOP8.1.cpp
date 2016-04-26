@@ -6,6 +6,7 @@
 
 int main()
 {
+	int qwe;
     return 0;
 }
 

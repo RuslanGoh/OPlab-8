@@ -6,7 +6,9 @@
 
 int main()
 {
-	int rdgcrg;
+	int lodfl;
+	int rdgbdbdbncrsafg;
+	double dfasfws;
     return 0;
 }
 
